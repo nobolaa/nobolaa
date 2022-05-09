@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nobolaa</h1>
+<h1 align="center">Hi 👋, I'm Nabil Ali</h1>
 <h3 align="center">A passionate full-stack developer from Granada, Spain.</h3>
 
 - 📫 How to reach me **nabilaliasserhaou@gmail.com**
