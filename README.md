@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **nabilaliasserhaou@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ufW62QOJXpPrqEvIHyfUAwUaOEN7SQQr/view?usp=sharing](https://drive.google.com/file/d/1ufW62QOJXpPrqEvIHyfUAwUaOEN7SQQr/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1au3qjiuVhhh3Dli2D2GjSUzpNX76blRu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
