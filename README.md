@@ -55,8 +55,8 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   </p>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobolaa&show_icons=true&locale=en&layout=compact" alt="nobolaa" height="180"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nobolaa&" alt="nobolaa" height="180"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobolaa&show_icons=true&locale=en&layout=compact" alt="nobolaa" height="150"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nobolaa&" alt="nobolaa" height="150"/></p>
 <!---
 nobolaa/nobolaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
