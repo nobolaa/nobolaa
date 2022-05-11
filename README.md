@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **nabilaliasserhaou@gmail.com**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1x2BTS6PVJ70E6unhmKTDvcDjnwgY8ZsI/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/12EBwan0H30dPkSUCwW7pB0FQis-8m0W8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +33,7 @@
   - Frameworks:
   <p align="left"> 
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+    <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
